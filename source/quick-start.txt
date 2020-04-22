@@ -20,7 +20,7 @@ Install the Java Development Kit (JDK)
 
 .. include:: /includes/quick-start/install-jdk.rst
 
-Create the Project
+Create the Projecth
 ~~~~~~~~~~~~~~~~~~~
 
 .. include:: /includes/quick-start/create-project.rst
